@@ -12,9 +12,9 @@ There are some dist file added in the code base config folder. Siply change it w
 node index.js
 
 # Folder Structure
- app	
-   -controllers
-   -models
-   -routers   
- config	
- util
+ app\n
+   -controllers\n
+   -models\n
+   -routers\n  
+ config\n	
+ util\n
