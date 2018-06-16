@@ -1,4 +1,4 @@
-# Nodejs api framework
+# NodeJS REST API Framework
 A framework to create the REST API using nodejs based on expressjs
 It is a fully configured skelton with mongodb and JWT authentication.
 
