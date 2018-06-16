@@ -1,6 +1,9 @@
-# nodejs-api-framework
+# Nodejs api framework
 A framework to create the REST API using nodejs based on expressjs
 It is a fully configured skelton with mongodb and JWT authentication.
+
+# Prerequisite
+There should be node and mongodb installed on your machine.
 
 # Install using npm
 Take clone of the repo and run "npm install"
